@@ -15,5 +15,4 @@ Contributions are always welcome!
 
 
 ## License
-
-[![CC0](https://drive.google.com/file/d/1EfMORS2KxENNJvCaz3XqVILpUxB3bAjn/view?usp=sharing)]
+© Copyright 2020 Addictive media
