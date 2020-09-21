@@ -1,7 +1,7 @@
 <img src="images/logo.png" align="right" />
 
 # In black and White
-> A Law Firm
+> A Law Firm.
 
 
 
